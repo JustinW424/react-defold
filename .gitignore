@@ -1,0 +1,5 @@
+node_modules/
+dist/
+types/
+cosmos-export/
+public/app/js-web/react-defold/index.html
